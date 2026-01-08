@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain_huggingface
+dotenv
+PyMuPDF
+langchain_google_genai
